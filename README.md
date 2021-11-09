@@ -32,11 +32,11 @@ TODO write an intro, actually add all the known links below
 
 ### WakeWord
 - [ovos-ww-plugin-hotkeys](https://github.com/OpenVoiceOS/ovos_ww_plugin_hotkeys)
-- [ovos-ww-plugin-pocketsphinx](https://github.com/OpenVoiceOS/ovos-wakeword-plugin-pocketsphinx)
-- [ovos-ww-plugin-snowboy](https://github.com/OpenVoiceOS/ovos-wakeword-plugin-snowboy)
-- [ovos-ww-plugin-vosk](https://github.com/OpenVoiceOS/ovos-wakeword-plugin-vosk)
-- [ovos-ww-plugin-precise](https://github.com/OpenVoiceOS/ovos-wake-word-plugin-precise)
-- [ovos-ww-plugin-precise-lite](https://github.com/OpenVoiceOS/ovos-wake-word-plugin-precise-lite)
+- [ovos-ww-plugin-pocketsphinx](https://github.com/OpenVoiceOS/ovos-ww-plugin-pocketsphinx)
+- [ovos-ww-plugin-snowboy](https://github.com/OpenVoiceOS/ovos-ww-plugin-snowboy)
+- [ovos-ww-plugin-vosk](https://github.com/OpenVoiceOS/ovos-ww-plugin-vosk)
+- [ovos-ww-plugin-precise](https://github.com/OpenVoiceOS/ovos-ww-plugin-precise)
+- [ovos-ww-plugin-precise-lite](https://github.com/OpenVoiceOS/ovos-ww-plugin-precise-lite)
 - [ovos-ww-plugin-nyumaya](https://github.com/OpenVoiceOS/ovos-ww-plugin-nyumaya)
 - [ovos-ww-plugin-nyumaya-legacy](https://github.com/OpenVoiceOS/ovos-ww-plugin-nyumaya-legacy)
 - [mycroft-porcupine-plugin](https://github.com/forslund/mycroft-porcupine-plugin)
