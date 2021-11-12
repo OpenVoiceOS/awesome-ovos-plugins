@@ -1,7 +1,12 @@
 # awesome-ovos-plugins
 List of ovos-plugin-manager plugins and projects
 
-TODO write an intro, actually add all the known links below
+This is a list of Assistant plugins distributed by the OpenVoiceOS team. Most of them are also developed by OVOS. 
+OPM plugins are always usable outside of Mycroft, in any Python project. All should be compatible with any Mycroft-based Assistant.
+
+NOTE: This awesomelist is curated for OVOS-derived software.
+
+Plugins written against mycroft-core should be listed in [awesome-mycroft-community](https://github.com/ChanceNCounter/awesome-mycroft-community)
 
 ## OPM plugins
 
@@ -61,6 +66,6 @@ TODO write an intro, actually add all the known links below
 
 - [OpenVoiceOS](https://github.com/OpenVoiceOS/OpenVoiceOS) - OVOS [onboarding](https://github.com/OpenVoiceOS/skill-ovos-setup) options are mimic, mimic2, pico, larynx, vosk, google
 - [ovos-core](https://github.com/OpenVoiceOS/ovos-core) - OPM was essentially extracted from this codebase to make plugins standalone
-- [neon-core](https://github.com/NeonGeckoCom/NeonCore) - TODO @NeonDaniel can you write a snippet and mention the translate/detect plugins used by neon ?
+- [neon-core](https://github.com/NeonGeckoCom/NeonCore) - 
 - [ovos-local-backend](https://github.com/OpenVoiceOS/ovos-local-backend) - permissevely licensed alternative to the official mycroft backend
 - [HiveMind voice satellite](https://github.com/JarbasHiveMind/HiveMind-voice-sat)
