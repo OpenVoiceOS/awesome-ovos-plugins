@@ -46,6 +46,7 @@ Plugins written against mycroft-core should be listed in [awesome-mycroft-commun
 - [ovos-ww-plugin-nyumaya-legacy](https://github.com/OpenVoiceOS/ovos-ww-plugin-nyumaya-legacy)
 - [mycroft-porcupine-plugin](https://github.com/forslund/mycroft-porcupine-plugin)
 - [chatterbox-ww-plugin-dummy](https://github.com/HelloChatterbox/dummy_wakeword_plugin)
+- [neon_ww_plugin_efficientwordnet](https://github.com/NeonGeckoCom/neon_ww_plugin_efnet)
 
 ### AudioService
 - [ovos-ocp-audio-plugin](https://github.com/OpenVoiceOS/ovos-ocp-audio-plugin)
