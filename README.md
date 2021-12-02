@@ -81,6 +81,15 @@ Plugins written against mycroft-core should be listed in [awesome-mycroft-commun
 - [neon-lang-plugin-amazon_translate](https://github.com/NeonGeckoCom/neon-lang-plugin-amazon_translate)
 - [neon-lang-plugin-apertium](https://github.com/NeonGeckoCom/neon-lang-plugin-apertium)
 
+### Phonemes
+
+##### Local
+- [neon-g2p-cmudict-plugin](https://github.com/NeonGeckoCom/g2p-cmudict-plugin)
+- [neon-g2p-phoneme-guesser-plugin](https://github.com/NeonGeckoCom/g2p-phoneme-guesser-plugin)
+- [neon-g2p-gruut-plugin](https://github.com/NeonGeckoCom/g2p-gruut-plugin)
+- [neon-g2p-mimic-plugin](https://github.com/NeonJarbas/g2p-mimic-plugin)
+- [neon-g2p-mimic2-plugin](https://github.com/NeonJarbas/g2p-mimic2-plugin)
+- [neon-g2p-espeak-plugin](https://github.com/NeonJarbas/g2p-espeak-plugin)
 
 
 ### Utterance Transformers
@@ -105,12 +114,12 @@ Plugins written against mycroft-core should be listed in [awesome-mycroft-commun
 ##### Hosted
 - [neon_utterance_neuralcorefdemo_plugin](https://github.com/NeonGeckoCom/neon_utterance_neuralcorefdemo_plugin) - pre-intent action (coreference resolution)
 
-
 ### Audio Transformers
 
 ##### Local
 - [neon_noise_level_plugin](https://github.com/NeonGeckoCom/neon_noise_level_plugin) - event emitter
 - [neon_audio_normalizer_plugin](https://github.com/NeonGeckoCom/neon_audio_normalizer_plugin) - pre-STT action
+
 
 ## Projects using OPM
 
