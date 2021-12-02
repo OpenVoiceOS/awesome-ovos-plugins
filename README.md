@@ -81,6 +81,15 @@ Plugins written against mycroft-core should be listed in [awesome-mycroft-commun
 - [neon-lang-plugin-amazon_translate](https://github.com/NeonGeckoCom/neon-lang-plugin-amazon_translate)
 - [neon-lang-plugin-apertium](https://github.com/NeonGeckoCom/neon-lang-plugin-apertium)
 
+
+### Phonemes
+
+##### Local
+- [ovos-g2p-cmudict-plugin](https://github.com/OpenVoiceOS/g2p-cmudict-plugin)
+- [neon-g2p-phoneme-guesser-plugin](https://github.com/NeonGeckoCom/g2p-phoneme-guesser-plugin)
+- [neon-g2p-gruut-plugin](https://github.com/NeonGeckoCom/g2p-gruut-plugin)
+
+
 ## Projects using OPM
 
 - [OpenVoiceOS](https://github.com/OpenVoiceOS/OpenVoiceOS) - OVOS [onboarding](https://github.com/OpenVoiceOS/skill-ovos-setup) options are mimic, mimic2, pico, larynx, vosk, google
