@@ -81,6 +81,26 @@ Plugins written against mycroft-core should be listed in [awesome-mycroft-commun
 - [neon-lang-plugin-amazon_translate](https://github.com/NeonGeckoCom/neon-lang-plugin-amazon_translate)
 - [neon-lang-plugin-apertium](https://github.com/NeonGeckoCom/neon-lang-plugin-apertium)
 
+
+### Utterance Transformers
+
+##### Local
+- [neon_utterance_cancel_plugin](https://github.com/NeonGeckoCom/neon_utterance_cancel_plugin) - pre-intent action
+- [neon_utterance_translator_plugin](https://github.com/NeonGeckoCom/neon_utterance_translator_plugin) - pre-intent action
+- [neon_utterance_normalizer_plugin](https://github.com/NeonGeckoCom/neon_utterance_normalizer_plugin) - pre-intent action
+- [neon_utterance_pronomial_plugin](neon_utterance_pronomial_plugin) - coreference resolution
+- [neon_utterance_RAKE_plugin](https://github.com/NeonGeckoCom/neon_utterance_RAKE_plugin) - keyword extractor
+
+##### Hosted
+- [neon_utterance_neuralcorefdemo_plugin](https://github.com/NeonGeckoCom/neon_utterance_neuralcorefdemo_plugin) - coreference resolution
+
+
+### Audio Transformers
+
+##### Local
+- [neon_noise_level_plugin](https://github.com/NeonGeckoCom/neon_noise_level_plugin) - pre-STT action
+- [neon_audio_normalizer_plugin](https://github.com/NeonGeckoCom/neon_audio_normalizer_plugin) - pre-STT action
+
 ## Projects using OPM
 
 - [OpenVoiceOS](https://github.com/OpenVoiceOS/OpenVoiceOS) - OVOS [onboarding](https://github.com/OpenVoiceOS/skill-ovos-setup) options are mimic, mimic2, pico, larynx, vosk, google
