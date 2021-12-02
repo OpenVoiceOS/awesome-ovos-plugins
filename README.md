@@ -85,10 +85,10 @@ Plugins written against mycroft-core should be listed in [awesome-mycroft-commun
 ### Phonemes
 
 ##### Local
-- [ovos-g2p-cmudict-plugin](https://github.com/OpenVoiceOS/g2p-cmudict-plugin)
+- [neon-g2p-cmudict-plugin](https://github.com/NeonGeckoCom/g2p-cmudict-plugin)
 - [neon-g2p-phoneme-guesser-plugin](https://github.com/NeonGeckoCom/g2p-phoneme-guesser-plugin)
 - [neon-g2p-gruut-plugin](https://github.com/NeonGeckoCom/g2p-gruut-plugin)
-
+- [neon-g2p-mimic-plugin](https://github.com/NeonJarbas/g2p-mimic-plugin)
 
 ## Projects using OPM
 
