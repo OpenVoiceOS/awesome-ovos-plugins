@@ -82,23 +82,34 @@ Plugins written against mycroft-core should be listed in [awesome-mycroft-commun
 - [neon-lang-plugin-apertium](https://github.com/NeonGeckoCom/neon-lang-plugin-apertium)
 
 
+
 ### Utterance Transformers
 
 ##### Local
 - [neon_utterance_cancel_plugin](https://github.com/NeonGeckoCom/neon_utterance_cancel_plugin) - pre-intent action
 - [neon_utterance_translator_plugin](https://github.com/NeonGeckoCom/neon_utterance_translator_plugin) - pre-intent action
 - [neon_utterance_normalizer_plugin](https://github.com/NeonGeckoCom/neon_utterance_normalizer_plugin) - pre-intent action
-- [neon_utterance_pronomial_plugin](neon_utterance_pronomial_plugin) - coreference resolution
-- [neon_utterance_RAKE_plugin](https://github.com/NeonGeckoCom/neon_utterance_RAKE_plugin) - keyword extractor
+- [neon_utterance_pronomial_plugin](neon_utterance_pronomial_plugin) - pre-intent action (coreference resolution)
+- [neon_utterance_RAKE_plugin](https://github.com/NeonGeckoCom/neon_utterance_RAKE_plugin) - inject context (keyword extraction)
+- [neon_utterance_YAKE_plugin](https://github.com/NeonGeckoCom/neon_utterance_YAKE_plugin) - inject context (keyword extraction)
+- [neon_utterance_KeyBERT_plugin](https://github.com/NeonGeckoCom/neon_utterance_KeyBERT_plugin) - inject context (keyword extraction)
+- [neon_utterance_postag_plugin](https://github.com/NeonGeckoCom/neon_utterance_postag_plugin) - inject context (postag)
+- [neon_utterance_simpleNER_plugin](https://github.com/NeonGeckoCom/neon_utterance_simpleNER_plugin) - inject context (NER)
+- [neon_utterance_zeroshot_ner_plugin](https://github.com/NeonGeckoCom/neon_utterance_zeroshot_ner_plugin) - inject context (NER)
+- [neon_utterance_zeroshot_topics_plugin](https://github.com/NeonGeckoCom/neon_utterance_zeroshot_topics_plugin) - inject context
+- [neon_utterance_littlequestions_plugin_plugin](https://github.com/NeonGeckoCom/neon_utterance_littlequestions_plugin) - inject context
+- [neon_utterance_zeroshot_clf_plugin](https://github.com/NeonGeckoCom/neon_utterance_zeroshot_clf_plugin) - inject context
+- [neon_utterance_wn_entailment_plugin](https://github.com/NeonGeckoCom/neon_utterance_wn_entailment_plugin) - inject context 
+
 
 ##### Hosted
-- [neon_utterance_neuralcorefdemo_plugin](https://github.com/NeonGeckoCom/neon_utterance_neuralcorefdemo_plugin) - coreference resolution
+- [neon_utterance_neuralcorefdemo_plugin](https://github.com/NeonGeckoCom/neon_utterance_neuralcorefdemo_plugin) - pre-intent action (coreference resolution)
 
 
 ### Audio Transformers
 
 ##### Local
-- [neon_noise_level_plugin](https://github.com/NeonGeckoCom/neon_noise_level_plugin) - pre-STT action
+- [neon_noise_level_plugin](https://github.com/NeonGeckoCom/neon_noise_level_plugin) - event emitter
 - [neon_audio_normalizer_plugin](https://github.com/NeonGeckoCom/neon_audio_normalizer_plugin) - pre-STT action
 
 ## Projects using OPM
