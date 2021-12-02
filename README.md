@@ -89,6 +89,7 @@ Plugins written against mycroft-core should be listed in [awesome-mycroft-commun
 - [neon-g2p-phoneme-guesser-plugin](https://github.com/NeonGeckoCom/g2p-phoneme-guesser-plugin)
 - [neon-g2p-gruut-plugin](https://github.com/NeonGeckoCom/g2p-gruut-plugin)
 - [neon-g2p-mimic-plugin](https://github.com/NeonJarbas/g2p-mimic-plugin)
+- [neon-g2p-mimic2-plugin](https://github.com/NeonJarbas/g2p-mimic2-plugin)
 
 ## Projects using OPM
 
