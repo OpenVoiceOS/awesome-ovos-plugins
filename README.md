@@ -15,6 +15,8 @@ Plugins written against mycroft-core should be listed in [awesome-mycroft-commun
 ##### Local
 - [ovos-stt-plugin-vosk](https://github.com/OpenVoiceOS/ovos-stt-plugin-vosk)
 - [neon-stt-plugin-scribosermo](https://github.com/NeonGeckoCom/neon-stt-plugin-scribosermo)
+- [neon-stt-plugin-silero](https://github.com/NeonGeckoCom/neon-stt-plugin-silero)
+- [neon-stt-plugin-polyglot](https://github.com/NeonGeckoCom/neon-stt-plugin-polyglot)
 - [neon-stt-plugin-deepspeech_stream_local](https://github.com/NeonGeckoCom/neon-stt-plugin-deepspeech_stream_local)
 - [ovos-stt-plugin-pocketsphinx](https://github.com/OpenVoiceOS/ovos-stt-plugin-pocketsphinx)
 
@@ -33,6 +35,8 @@ Plugins written against mycroft-core should be listed in [awesome-mycroft-commun
 - [ovos-tts-plugin-SAM](https://github.com/OpenVoiceOS/ovos-tts-plugin-SAM)
 - [ovos-tts-plugin-cotovia](https://github.com/OpenVoiceOS/ovos-tts-plugin-cotovia)
 - [neon-tts-plugin-mozilla_local](https://github.com/NeonGeckoCom/neon-tts-plugin-mozilla_local)
+- [neon-tts-plugin-glados](https://github.com/NeonGeckoCom/neon-tts-plugin-glados)
+- [neon-tts-plugin-tacotron2](https://github.com/NeonGeckoCom/neon-tts-plugin-tacotron2)
 
 ##### Hosted
 - [ovos-tts-plugin-mimic2](https://github.com/OpenVoiceOS/ovos-tts-plugin-mimic2)
