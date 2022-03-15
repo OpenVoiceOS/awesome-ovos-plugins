@@ -39,6 +39,7 @@ Plugins written against mycroft-core should be listed in [awesome-mycroft-commun
 - [neon-tts-plugin-tacotron2](https://github.com/NeonGeckoCom/neon-tts-plugin-tacotron2)
 
 ##### Hosted
+- [ovos-tts-server-plugin](https://github.com/OpenVoiceOS/ovos-tts-server-plugin)
 - [ovos-tts-plugin-mimic2](https://github.com/OpenVoiceOS/ovos-tts-plugin-mimic2)
 - [ovos-tts-plugin-google-TX](https://github.com/OpenVoiceOS/ovos-tts-plugin-google-TX)
 - [ovos-tts-plugin-responsivevoice](https://github.com/OpenVoiceOS/ovos-tts-plugin-responsivevoice)
@@ -68,7 +69,28 @@ Plugins written against mycroft-core should be listed in [awesome-mycroft-commun
 
 ##### Local
 - [ovos-ocp-audio-plugin](https://github.com/OpenVoiceOS/ovos-ocp-audio-plugin)
+- [ovos-audio-plugin-simple](https://github.com/OpenVoiceOS/ovos-audio-plugin-simple)
 - [ovos-vlc-plugin](https://github.com/OpenVoiceOS/ovos-vlc-plugin)
+
+
+### VAD
+
+##### Local
+- [ovos-vad-plugin-silero](https://github.com/OpenVoiceOS/ovos-vad-plugin-silero)
+- [ovos-vad-plugin-webrtcvad](https://github.com/OpenVoiceOS/ovos-vad-plugin-webrtcvad)
+
+
+### PHAL
+
+##### Local
+
+- [ovos-PHAL-plugin-system](https://github.com/OpenVoiceOS/ovos-PHAL-plugin-system)
+- [ovos-PHAL-plugin-connectivity-events](https://github.com/OpenVoiceOS/ovos-PHAL-plugin-connectivity-events)
+- [ovos-PHAL-plugin-display-manager-ipc](https://github.com/OpenVoiceOS/ovos-PHAL-plugin-display-manager-ipc)
+- [ovos-PHAL-plugin-balena-wifi](https://github.com/OpenVoiceOS/ovos-PHAL-plugin-balena-wifi)
+- [ovos-PHAL-plugin-dashboard](https://github.com/OpenVoiceOS/ovos-PHAL-plugin-dashboard)
+- [ovos-PHAL-plugin-mk1](https://github.com/OpenVoiceOS/ovos-PHAL-plugin-mk1)
+
 
 ### Language Detection / Translation
 
