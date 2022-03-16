@@ -84,6 +84,7 @@ Plugins written against mycroft-core should be listed in [awesome-mycroft-commun
 
 ##### Local
 
+- [ovos-PHAL-plugin-alsa](https://github.com/OpenVoiceOS/ovos-PHAL-plugin-alsa)
 - [ovos-PHAL-plugin-system](https://github.com/OpenVoiceOS/ovos-PHAL-plugin-system)
 - [ovos-PHAL-plugin-connectivity-events](https://github.com/OpenVoiceOS/ovos-PHAL-plugin-connectivity-events)
 - [ovos-PHAL-plugin-display-manager-ipc](https://github.com/OpenVoiceOS/ovos-PHAL-plugin-display-manager-ipc)
