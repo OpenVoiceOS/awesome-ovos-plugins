@@ -91,7 +91,10 @@ Plugins written against mycroft-core should be listed in [awesome-mycroft-commun
 - [ovos-PHAL-plugin-balena-wifi](https://github.com/OpenVoiceOS/ovos-PHAL-plugin-balena-wifi)
 - [ovos-PHAL-plugin-dashboard](https://github.com/OpenVoiceOS/ovos-PHAL-plugin-dashboard)
 - [ovos-PHAL-plugin-mk1](https://github.com/OpenVoiceOS/ovos-PHAL-plugin-mk1)
-- [ovos-PHAL-plugin-mk2](https://github.com/OpenVoiceOS/ovos-PHAL-plugin-mk2)
+- [ovos-PHAL-plugin-mk2](https://github.com/OpenVoiceOS/ovos-PHAL-plugin-mk2) - DEPRECATED
+- [neon-phal-plugin-linear_led](https://github.com/NeonGeckoCom/neon-phal-plugin-linear_led)
+- [neon-phal-plugin-switches](https://github.com/NeonGeckoCom/neon-phal-plugin-switches)
+- [neon-phal-plugin-fan](https://github.com/NeonGeckoCom/neon-phal-plugin-fan)
 
 
 ### Language Detection / Translation
